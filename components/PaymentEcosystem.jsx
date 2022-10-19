@@ -6,7 +6,7 @@ const RenderSingleComponent = ({ name, description, icon }) => {
     <div class="max-w-md py-2 px-8 bg-white  border border-slate-500 shadow-xl rounded-3xl mb-4">
       <div class="flex justify-center  -mt-16 ">
         <Image
-          class="w-20 h-20 object-cover rounded-full"
+          className="w-20 h-20 object-cover rounded-full"
           src="/assets/img/iso.png"
           height="100"
           width="100"
