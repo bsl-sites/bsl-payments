@@ -4,7 +4,7 @@ import React from "react";
 const navItems = [
   { name: "Home" },
   { name: "About" },
-  { name: "Activities" },
+  { name: "Projects" },
   { name: "Blog" },
 ];
 
