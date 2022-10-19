@@ -5,10 +5,10 @@ const RenderSingleItem = ({ name }) => {
   return (
     <p className="flex items-center">
       <svg
-        fill="currentColor"
+        fillRule="currentColor"
         viewBox="0 0 20 20"
         xmlns="http://www.w3.org/2000/svg"
-        class="text-violet-900 hi-solid hi-check-circle inline-block w-4 h-4 sm:w-5 sm:h-5"
+        className="text-violet-900 hi-solid hi-check-circle inline-block w-4 h-4 sm:w-5 sm:h-5"
       >
         <path
           fill-rule="evenodd"
